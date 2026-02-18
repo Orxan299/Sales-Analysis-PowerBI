@@ -7,6 +7,14 @@ Bu layihə "Birmarket" mağazalar şəbəkəsinin real satış datası əsasınd
 - **İtki Hesabatı:** Potensial itirilmiş gəlirin (402.25K) səbəblərinin araşdırılması.
 - **Vizuallaşdırma:** Key Influencers, Waterfall Chart və Tree Map kimi mürəkkəb vizualların tətbiqi.
 
+- ## 🧐 Biznes Analizi və İnsaytdar (Insights)
+Bu layihədə apardığım analiz nəticəsində əldə etdiyim bəzi mühüm nəticələr:
+
+- **Ödəniş Metodu Təsiri:** "Key Influencers" vizualı göstərir ki, kuryerdə kreditlə ödəniş uğurlu çatdırılma şansını **10 dəfədən çox** artırır.
+- **İtirilmiş Gəlir:** "Waterfall Chart" vasitəsilə noyabr ayındakı kəskin satış artımını və itkilərin hansı kateqoriyalarda (məsələn, Elektrik alətləri) cəmləşdiyini müəyyən etdim.
+- **Optimallaşdırma:** Orta çatdırılma müddəti 5 gündür. Rəqabət qabiliyyətini artırmaq üçün bu göstəricinin 3 günə endirilməsi hədəflənib.
+- **What-if Analysis:** Ləğv faizinin 30% azaldılması halında əlavə olaraq **120,676 AZN** gəlir əldə oluna biləcəyi hesablanıb.
+
 ## 🛠 Texniki Göstəricilər
 - **Power BI Desktop:** Dashboard dizaynı və vizuallaşdırma.
 - **DAX:** Mürəkkəb biznes ölçülərinin (Median Basket, Ləğv Faizi və s.) hesablanması.
