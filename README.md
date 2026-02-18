@@ -7,7 +7,7 @@ Bu layihə "Birmarket" mağazalar şəbəkəsinin real satış datası əsasınd
 - **İtki Hesabatı:** Potensial itirilmiş gəlirin (402.25K) səbəblərinin araşdırılması.
 - **Vizuallaşdırma:** Key Influencers, Waterfall Chart və Tree Map kimi mürəkkəb vizualların tətbiqi.
 
-- ## 🧐 Biznes Analizi və İnsaytdar (Insights)
+- ## 🧐 Biznes Analizi və İnsaytlar (Insights)
 Bu layihədə apardığım analiz nəticəsində əldə etdiyim bəzi mühüm nəticələr:
 
 - **Ödəniş Metodu Təsiri:** "Key Influencers" vizualı göstərir ki, kuryerdə kreditlə ödəniş uğurlu çatdırılma şansını **10 dəfədən çox** artırır.
